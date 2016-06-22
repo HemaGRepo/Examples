@@ -1,4 +1,4 @@
-package com.igatepatni.lesson7;
+package com.cg
 
 /*	Reading and Writing a Java Primitive Values.
 
