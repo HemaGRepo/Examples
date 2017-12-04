@@ -1,6 +1,7 @@
 package com.igatepatni.lesson7;
 
 /*	Reading and Writing a Java Primitive Values.
+This is absolutely new code
 
 */
 
