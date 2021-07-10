@@ -1,4 +1,4 @@
-package com.igatepatni.lesson1;
+package com.cg;
 
 public class HelloWorld {
 
